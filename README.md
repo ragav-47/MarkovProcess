@@ -1,4 +1,6 @@
-# Markov Process
+### EX NO : 05
+### DATE  : 25.05.2022
+# <p align="center">Markov Process</p>
 
 
 # Aim : 
@@ -17,6 +19,9 @@ Assumptions for Markov Chain :
 1. The statistical system contains a finite number of states.
 2. The states are mutually exclusive and collectively exhaustive.
 3. The transition probability from one state to another state is constant over time.
+
+<br/><br/><br/><br/><br/><br/><br/><br/>
+
 # Procedure :
 
 ![image](https://user-images.githubusercontent.com/104613195/170175685-c6187523-f268-4a3b-b03d-8bbe62647a57.png)
@@ -41,7 +46,7 @@ for i in range(1,n+1):
     print(P0)
   ```
 
-
+<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
 # Results and Output : 
 
